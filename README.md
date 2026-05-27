@@ -176,4 +176,4 @@ http://localhost:8080
 
 # 👨‍💻 Author
 
-Developed with ❤️ using **Java**, **Spring Boot**, and **MySQL**.
+Developed with using **Java**, **Spring Boot**, and **MySQL**.
